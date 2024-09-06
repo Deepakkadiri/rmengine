@@ -5,12 +5,12 @@ click==8.1.7
 colorama==0.4.6
 Flask==2.2.5
 idna==3.8
+importlib-metadata==6.7.0
 itsdangerous==2.1.2
 jinja2==3.1.4
 joblib==1.3.2
-lxml==4.9.2  # Try downgrading this version
 MarkupSafe==2.1.5
-numpy==1.21.0  # Explicit version
+numpy
 pypdf2==3.0.1
 requests==2.31.0
 scikit-learn==1.0.2
